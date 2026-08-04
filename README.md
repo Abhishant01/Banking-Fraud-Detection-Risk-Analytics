@@ -1,4 +1,4 @@
-# 🏦 Banking Fraud Detection & Risk Analytics Dashboard
+# 🏦 Banking Fraud & Risk Analytics Dashboard
 
 A comprehensive end-to-end **Data Analytics** project that analyzes banking transactions to identify fraudulent activities, detect high-risk customer behavior, and uncover fraud patterns using **Python, SQL, and Power BI**.
 
@@ -12,7 +12,7 @@ Financial fraud is one of the biggest challenges faced by modern banking institu
 
 The dashboard enables stakeholders to:
 
-- Detect high-risk transactions
+- Inspecting high-risk transactions
 - Monitor fraud trends over time
 - Analyze transaction patterns
 - Identify fraud concentration
@@ -110,8 +110,8 @@ Business Insights
 
 ## Risk & Customer Analysis
 
-- Fraud Loss Investigation (Sankey Analysis)
-- Fraud Pattern Detection
+- Fraud Loss Investigation 
+- Fraud Pattern Analysis
 - Customer Risk Analysis
 - Transaction Behavior Analysis
 - Fraud Concentration
@@ -127,7 +127,7 @@ Business Insights
 
 - Identified the highest contributing transaction types responsible for fraudulent losses.
 - Analyzed fraud distribution across different severity levels.
-- Detected customer behavior patterns associated with high-risk transactions.
+- Analyzed customer behavior patterns associated with high-risk transactions.
 - Measured financial losses caused by fraudulent activities.
 - Identified peak fraud periods during the day.
 - Compared fraud occurrence between weekends and weekdays.
@@ -140,7 +140,7 @@ Business Insights
 
 # 🎯 Business Objectives
 
-- Detect fraudulent transactions
+- Identify fraudulent transactions
 - Monitor fraud trends
 - Reduce financial losses
 - Identify high-risk customers
